@@ -4,6 +4,8 @@
 ![IMAGE](https://miro.medium.com/max/2113/1*zVYsG6L_uuBpi7ShAIjYWg.png)
 
 [Google Cloud Platform Big Data and Machine Learning Fundamentals]()
+
+
 [Week 1]()
 
 
@@ -32,6 +34,22 @@ Learn more about big data infrastructure:
 - [Cloud Dataflow Documentation](https://cloud.google.com/dataflow/) + [release blog](https://cloud.google.com/blog/products/data-analytics/) + [templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-templates)
 - [Data Studio Documentation](https://developers.google.com/datastudio/)
 - [Blog: Using Google Sheets with BigQuery](https://cloud.google.com/blog/products/g-suite/connecting-bigquery-and-google-sheets-to-help-with-hefty-data-analysis)
+
+
+[Week 2]()
+
+
+1>  **Cloud Pub/Sub**
+- [Cloud Pub/Sub documentation](https://cloud.google.com/pubsub/docs/) + [blog](https://cloud.google.com/pubsub/docs/release-notes)
+
+2> **Cloud Dataflow** 
+- [Cloud Dataflow documentation](https://cloud.google.com/dataflow/docs/) + [blog](https://cloud.google.com/blog/products/data-analytics) + [templates](https://github.com/GoogleCloudPlatform/DataflowTemplates/)
+
+3> **Data Studio**
+- [Data Studio documentation](https://developers.google.com/datastudio/) + [templates](https://datastudiogallery.appspot.com/gallery)
+
+
+
 
 
 
