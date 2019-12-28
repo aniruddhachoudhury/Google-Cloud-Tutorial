@@ -39,14 +39,17 @@ Learn more about big data infrastructure:
 [Week 2]()
 
 
-1>  **Cloud Pub/Sub**
+1>  **Cloud Pub/Sub + Cloud Dataflow + Data Studio **
+
 - [Cloud Pub/Sub documentation](https://cloud.google.com/pubsub/docs/) + [blog](https://cloud.google.com/pubsub/docs/release-notes)
-
-2> **Cloud Dataflow** 
 - [Cloud Dataflow documentation](https://cloud.google.com/dataflow/docs/) + [blog](https://cloud.google.com/blog/products/data-analytics) + [templates](https://github.com/GoogleCloudPlatform/DataflowTemplates/)
-
-3> **Data Studio**
 - [Data Studio documentation](https://developers.google.com/datastudio/) + [templates](https://datastudiogallery.appspot.com/gallery)
+
+2> **AutoML + Vision API**
+
+- [AutoML Vision documentation](https://cloud.google.com/vision/automl/docs/)
+- [Vision API documentation](https://cloud.google.com/vision/#resources)
+
 
 
 
