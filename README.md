@@ -39,7 +39,7 @@ Learn more about big data infrastructure:
 [Week 2]()
 
 
-1>  **Cloud Pub/Sub + Cloud Dataflow + Data Studio **
+1>  **Cloud Pub/Sub + Cloud Dataflow + Data Studio**
 
 - [Cloud Pub/Sub documentation](https://cloud.google.com/pubsub/docs/) + [blog](https://cloud.google.com/pubsub/docs/release-notes)
 - [Cloud Dataflow documentation](https://cloud.google.com/dataflow/docs/) + [blog](https://cloud.google.com/blog/products/data-analytics) + [templates](https://github.com/GoogleCloudPlatform/DataflowTemplates/)
