@@ -50,6 +50,12 @@ Learn more about big data infrastructure:
 - [AutoML Vision documentation](https://cloud.google.com/vision/automl/docs/)
 - [Vision API documentation](https://cloud.google.com/vision/#resources)
 
+3> **Cloud AutoML + Big Query**
+
+- [Cloud AutoML](https://cloud.google.com/automl/)
+- [BigQuery ML](https://cloud.google.com/bigquery/docs/bigqueryml-intro)
+- [Building custom ML models with TensorFlow](https://www.tensorflow.org/overview/)
+
 
 
 
